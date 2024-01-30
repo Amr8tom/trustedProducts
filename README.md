@@ -1,0 +1,2 @@
+# trusted
+ qr code app
